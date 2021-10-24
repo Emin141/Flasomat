@@ -16,7 +16,6 @@ U ovom dokumentu su napisani zadaci koji se nalaze u sklopu projekta. U ovo se u
 #Urađeno
 
 * 3D model oklopa mašine
-
 * Arduino pločica osposobljena
 
 #Bugovi/Ne znamo kako uraditi
